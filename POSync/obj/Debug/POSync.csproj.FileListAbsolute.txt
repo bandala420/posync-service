@@ -1,0 +1,12 @@
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Debug\WinSCP.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Debug\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Debug\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Debug\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Debug\WinSCPnet.dll
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.csproj.CopyComplete
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Debug\POSync.AppSetup.resources

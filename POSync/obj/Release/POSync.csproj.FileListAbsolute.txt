@@ -1,0 +1,50 @@
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Release\WinSCP.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\bin\Release\WinSCPnet.dll
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.csproj.CopyComplete
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync\obj\Release\POSync.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\bin\Release\WinSCP.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\bin\Release\WinSCPnet.dll
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.csproj.CopyComplete
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync\obj\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\bin\Release\WinSCP.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\bin\Release\WinSCPnet.dll
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.csproj.CopyComplete
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync\obj\Release\POSync.pdb
+D:\bandala\Documents\gpomonse\posync\POSync\bin\Release\WinSCP.exe
+D:\bandala\Documents\gpomonse\posync\POSync\bin\Release\POSync.exe.config
+D:\bandala\Documents\gpomonse\posync\POSync\bin\Release\POSync.exe
+D:\bandala\Documents\gpomonse\posync\POSync\bin\Release\POSync.pdb
+D:\bandala\Documents\gpomonse\posync\POSync\bin\Release\WinSCPnet.dll
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.AppSetup.resources
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.ProjectInstaller.resources
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.csproj.GenerateResource.cache
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.csproj.CoreCompileInputs.cache
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.csproj.CopyComplete
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.exe
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.pdb
+D:\bandala\Documents\gpomonse\posync\POSync\obj\Release\POSync.csproj.AssemblyReference.cache
