@@ -1,0 +1,29 @@
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\bin\Release\POSync Updater.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\bin\Release\POSync Updater.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\obj\Release\POSync Updater.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\obj\Release\POSync Updater.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\obj\Release\POSync Updater.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\obj\Release\POSync_Updater.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POS\POSync Updater\obj\Release\POSync Updater.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\bin\Release\POSync Updater.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\bin\Release\POSync Updater.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\obj\Release\POSync_Updater.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\obj\Release\POSync Updater.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\obj\Release\POSync Updater.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\obj\Release\POSync Updater.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\POSync Updater\obj\Release\POSync Updater.pdb
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\bin\Release\POSync Updater.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\bin\Release\POSync Updater.pdb
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\obj\Release\POSync_Updater.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\obj\Release\POSync Updater.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\obj\Release\POSync Updater.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\obj\Release\POSync Updater.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\POSync Updater\obj\Release\POSync Updater.pdb
+D:\bandala\Documents\gpomonse\posync\POSync Updater\bin\Release\POSync Updater.exe
+D:\bandala\Documents\gpomonse\posync\POSync Updater\bin\Release\POSync Updater.pdb
+D:\bandala\Documents\gpomonse\posync\POSync Updater\obj\Release\POSync_Updater.ProjectInstaller.resources
+D:\bandala\Documents\gpomonse\posync\POSync Updater\obj\Release\POSync Updater.csproj.GenerateResource.cache
+D:\bandala\Documents\gpomonse\posync\POSync Updater\obj\Release\POSync Updater.csproj.CoreCompileInputs.cache
+D:\bandala\Documents\gpomonse\posync\POSync Updater\obj\Release\POSync Updater.exe
+D:\bandala\Documents\gpomonse\posync\POSync Updater\obj\Release\POSync Updater.pdb
+D:\bandala\Documents\gpomonse\posync\POSync Updater\obj\Release\POSync Updater.csproj.AssemblyReference.cache
