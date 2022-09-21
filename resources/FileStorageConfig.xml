@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomStorageSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomStorageSettings FolderID="logsxml_xml">
+    <FolderEnabled>true</FolderEnabled>
+    <FolderFilter>*.xml</FolderFilter>
+    <FolderPath>{0}NewPos\files\LogsXML\</FolderPath>
+    <FolderIncludeSub>false</FolderIncludeSub>
+    <RemoteFolderPath>/logsxml/pos{0}/</RemoteFolderPath>
+    <ManualSync>true</ManualSync>
+    <MoveFiles>false</MoveFiles>
+    <IntervalTime>30</IntervalTime>
+    <IntervalUnit>M</IntervalUnit>
+  </CustomStorageSettings>
+</ArrayOfCustomStorageSettings>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerQuerySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuerySettings>
+    <Table>[MatrixRestDB].[dbo].[SalesByRegister]</Table>
+    <Columns>CONVERT(date,[Fecha]),[RegisterPosID],[StationID],[RegisterPosType],[VentaBrutaProducto],[ImpuestoProducto],[VentaBrutaNoProducto],[ImpuestoNoProducto],[Transacciones],[Descuentos]</Columns>
+    <Conditional>WHERE Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>VPOS</FileName>
+    <RemoteFolder>/csv/cierre/</RemoteFolder>
+    <DaysBefore>16</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[dbo].[DetalleMedia]</Table>
+    <Columns>CONVERT(date,[Fecha]),[VentaNetaProducto],[VentaNetaNoProducto],[ImpuestoProducto],[ImpuestoNoProducto],[ImporteDesayuno],[TransaccionesDesayuno],[ImporteDesayunoAuto],[TransDesayunoAuto],[TransaccionComedor],[TransaccionAuto],[TotalComedor],[TotalAuto],[UnidadOrdenCancel],[TotalOrdenCancel],[UnidadDevolucion],[TotalDevolucion],[CantidadCancelacionAntes],[TotalCancelacionAntes],[CantidadCancelacionDespues],[TotalCancelacionDespues],[UnidadPromo],[TotalPromo],[CostoPromo],[TotalCostoEmpleado],[UnidadRetiros],[TotalRetiros],[TransaccionPosRemoto],[TotalPosRemoto],[TransaccionLlevar],[TotalLlevar],[TotalPC],[ImpuestoComedor],[ImpuestoAuto],[ImpuestoPosRemoto],[ImpuestoDesayuno]</Columns>
+    <Conditional>WHERE Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>VMED</FileName>
+    <RemoteFolder>/csv/cierre/</RemoteFolder>
+    <DaysBefore>16</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[Turnos].[Drawers_DesperdicioCrudo]</Table>
+    <Columns>*</Columns>
+    <Conditional>WHERE Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>DESPCRUDO</FileName>
+    <RemoteFolder>/csv/desperdicio/</RemoteFolder>
+    <DaysBefore>8</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[Inventario].[DetalleInveFisico]</Table>
+    <Columns>*</Columns>
+    <Conditional>WHERE Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>INVFISICO</FileName>
+    <RemoteFolder>/csv/inventario/</RemoteFolder>
+    <DaysBefore>8</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[dbo].[CatalogoProductos]</Table>
+    <Columns>[Id_Producto],[TipoProdBase],[DescripcionLarga],[Status],[AplicaReceta],CONCAT([AplicaDesperdicio],[AplicaPromo],[AplicaCEmpleado]) AS BanderasControl,[MainGrupo],[Grupo],[Clasificacion],[ImpuestoComedor],[ImpuestoAuto],[CostoUnitario],[CostoFrente],[CostoAuto],[CostoPapelFrente],[CostoPapelAuto],[OtroCostoIn],[OtroCostoOut],[PrecioComedor],[PrecioAuto],[CostoDistribucionAlimento],[CostoDistribucionPapel],[CostoDistribucionOtros]</Columns>
+    <Conditional/>
+    <FileName>PROD</FileName>
+    <RemoteFolder>/csv/items/</RemoteFolder>
+    <DaysBefore>0</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[dbo].[CatalogoFRecetas]</Table>
+    <Columns>[Id_Receta],[Id_ClaveWring],[Tipo],[Grupo],[Status],[FactorCantidadFrente],[AplicaDesperdicio],[StatusReceta]</Columns>
+    <Conditional>WHERE Id_Receta != Id_ClaveWring</Conditional>
+    <FileName>FREC</FileName>
+    <RemoteFolder>/csv/recetas/</RemoteFolder>
+    <DaysBefore>0</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[Inventario].[CatalogoIngredientes]</Table>
+    <Columns>[Id_Ingrediente],[Status],[Descripcion],[Grupo],[GrupoStat],[Tipo],[SubGrupo],[PeriodoInventario],[UnidadEmpaque1],[UnidadMedida1],[UnidadEmpaque2],[UnidadMedida2],[UnidadEmpaque3],[UnidadMedida3],[CostoDistribucion1],[CostoDistribucion3],[PrecioPorEmpaque1],[PrecioPorEmpaque3],[Rendimiento],[AplicaPromo],[AplicaEmpleado],[AplicaDesperdicio],[AplicaRecetas],[AplicaRendimiento],[AplicaStat]</Columns>
+    <Conditional/>
+    <FileName>ING</FileName>
+    <RemoteFolder>/csv/ingredientes/</RemoteFolder>
+    <DaysBefore>0</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[dbo].[CatalogoRecetas]</Table>
+    <Columns>[Id_Receta],[Tipo],[Status],[Descripcion],[Grupo],[CostoAlimento],[CostoPapel],[CostoOtro],[CostoLista3],[PrecioPorEmpaque1]</Columns>
+    <Conditional/>
+    <FileName>CATREC</FileName>
+    <RemoteFolder>/csv/catalogo/</RemoteFolder>
+    <DaysBefore>0</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[Inventario].[DetalleDoctoResume]</Table>
+    <Columns>[Clave],[Documento],[Fecha],[DoctoRef],[FechaCaptura],[FechaFactura],[Tipo],[EnviadoPor],[RecibidoPor],[Factura],[FacturaDoc],[FacturaPed],[Referencia],[Concepto],[CostoTotal1],[CostoTotal2],[CostoTotal3],[CostoTotal4],[CostoTotal5],[CostoTotal6],[CostoTotal7],[CostoTotal],[CostoTotalDistribucion],[CostoTotaLDistribucion1],[CostoTotaLDistribucion2],[CostoTotaLDistribucion3],[CostoTotaLDistribucion4],[CostoTotaLDistribucion5],[CostoTotaLDistribucion6],[CostoTotaLDistribucion7]</Columns>
+    <Conditional>WHERE Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>DOCRES</FileName>
+    <RemoteFolder>/csv/compras/</RemoteFolder>
+    <DaysBefore>8</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[Inventario].[DetalleDoctoCrudo]</Table>
+    <Columns>[Clave],[Documento],[Fecha],[Id_Ingrediente],[AplicaA],[UnidadMedida1],[UnidadMedida2],[UnidadMedida3],[CantidadTotal],[UnidadCaja],[UnidadPaquete],[UnidadPieza],[UnidadEmpaque1],[UnidadEmpaque2],[UnidadEmpaque3],[CostoPorEmpaque1],[CostoPorEmpaque3],[CostoDistribucion1],[CostoDistribucion3]</Columns>
+    <Conditional>WHERE Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>DOCCRU</FileName>
+    <RemoteFolder>/csv/compras/</RemoteFolder>
+    <DaysBefore>8</DaysBefore>
+  </QuerySettings>
+  <QuerySettings>
+    <Table>[MatrixRestDB].[Turnos].[Drawers_DesperdicioCrudo] DS JOIN [MatrixRestDB].[Inventario].[CatalogoIngredientes] WR ON REPLACE(DS.[Id_Ingrediente], '-' , '@@') = WR.[Id_Ingrediente]</Table>
+    <Columns>CAST(CONVERT(NVARCHAR,DS.Fecha,23) AS DATE) AS Fecha,DS.[Id_Ingrediente],DS.[Cantidad],WR.[PrecioPorEmpaque1] AS Costo_Unitario,WR.[PrecioPorEmpaque1] * DS.[Cantidad] AS Costo_Total,DS.[Turno]</Columns>
+    <Conditional>WHERE DS.Fecha BETWEEN @daysago AND @now</Conditional>
+    <FileName>DESP</FileName>
+    <RemoteFolder>/csv/desperdicio/</RemoteFolder>
+    <DaysBefore>8</DaysBefore>
+  </QuerySettings>
+</ServerQuerySettings>
