@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSync", "POSync\POSync.csproj", "{DE67CD11-4926-4F6D-A813-374383CF41B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSync Updater", "POSync Updater\POSync Updater.csproj", "{12CA00A3-6A4E-4A9D-991E-8DB1155A01D4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "POSync Installer Win2k", "POSync Installer Win2k\POSync Installer Win2k.vdproj", "{02DD8882-00E3-4C1F-9A30-5330F603C1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE67CD11-4926-4F6D-A813-374383CF41B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE67CD11-4926-4F6D-A813-374383CF41B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE67CD11-4926-4F6D-A813-374383CF41B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE67CD11-4926-4F6D-A813-374383CF41B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CA00A3-6A4E-4A9D-991E-8DB1155A01D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CA00A3-6A4E-4A9D-991E-8DB1155A01D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CA00A3-6A4E-4A9D-991E-8DB1155A01D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CA00A3-6A4E-4A9D-991E-8DB1155A01D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DD8882-00E3-4C1F-9A30-5330F603C1C5}.Debug|Any CPU.ActiveCfg = Debug
+		{02DD8882-00E3-4C1F-9A30-5330F603C1C5}.Release|Any CPU.ActiveCfg = Release
+		{02DD8882-00E3-4C1F-9A30-5330F603C1C5}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

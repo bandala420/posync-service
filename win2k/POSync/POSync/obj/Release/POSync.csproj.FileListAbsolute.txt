@@ -1,0 +1,36 @@
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\obj\Release\POSync.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync - Win2k\POSync\POSync\obj\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\obj\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\Sincronizador POSync\win2k\POSync\POSync\obj\Release\POSync.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\obj\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\GitHub\posync\win2k\POSync\POSync\obj\Release\POSync.csproj.GenerateResource.Cache
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\bin\Release\POSync.exe.config
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\obj\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\obj\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\bin\Release\POSync.exe
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\bin\Release\POSync.pdb
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\obj\Release\ResolveAssemblyReference.cache
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\obj\Release\POSync.AppSetup.resources
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\obj\Release\POSync.ProjectInstaller.resources
+C:\Users\danie\Documents\GPO Monserrat\posync\win2k\POSync\POSync\obj\Release\POSync.csproj.GenerateResource.Cache
