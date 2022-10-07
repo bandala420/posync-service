@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomFolderSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomFolderSettings FolderID="boletas_bop">
+    <FolderEnabled>true</FolderEnabled>
+    <FolderFilter>*.bop</FolderFilter>
+    <FolderPath>{0}NewPos\files\Boletas\</FolderPath>
+    <FolderIncludeSub>false</FolderIncludeSub>
+    <RemoteFolderPath>/boletas/pos{0}/</RemoteFolderPath>
+    <ManualSync>true</ManualSync>
+    <MoveFiles>false</MoveFiles>
+    <FastSync>false</FastSync>
+    <IntervalTime>6</IntervalTime>
+    <IntervalUnit>H</IntervalUnit>
+  </CustomFolderSettings>
+  <!---->
+  <CustomFolderSettings FolderID="logs_log_dia">
+    <FolderEnabled>true</FolderEnabled>
+    <FolderFilter>*.log;*.dia</FolderFilter>
+    <FolderPath>{0}NewPos\files\Logs\</FolderPath>
+    <FolderIncludeSub>false</FolderIncludeSub>
+    <RemoteFolderPath>/logs/pos{0}/</RemoteFolderPath>
+    <ManualSync>true</ManualSync>
+    <MoveFiles>false</MoveFiles>
+    <FastSync>false</FastSync>
+    <IntervalTime>2</IntervalTime>
+    <IntervalUnit>H</IntervalUnit>
+  </CustomFolderSettings>
+  <!---->
+  <CustomFolderSettings FolderID="reprint_bop">
+    <FolderEnabled>true</FolderEnabled>
+    <FolderFilter>*.bop</FolderFilter>
+    <FolderPath>{0}NewPos\files\Reprint\</FolderPath>
+    <FolderIncludeSub>false</FolderIncludeSub>
+    <RemoteFolderPath>/boletas/pos{0}/reprint/</RemoteFolderPath>
+    <ManualSync>true</ManualSync>
+    <MoveFiles>false</MoveFiles>
+    <FastSync>true</FastSync>
+    <IntervalTime>5</IntervalTime>
+    <IntervalUnit>M</IntervalUnit>
+  </CustomFolderSettings>
+  <!---->
+  <CustomFolderSettings FolderID="logsxml_xml">
+    <FolderEnabled>true</FolderEnabled>
+    <FolderFilter>*.xml</FolderFilter>
+    <FolderPath>{0}NewPos\files\LogsXML\</FolderPath>
+    <FolderIncludeSub>true</FolderIncludeSub>
+    <RemoteFolderPath>/logsxml/pos{0}/</RemoteFolderPath>
+    <ManualSync>true</ManualSync>
+    <MoveFiles>false</MoveFiles>
+    <FastSync>true</FastSync>
+    <IntervalTime>5</IntervalTime>
+    <IntervalUnit>M</IntervalUnit>
+  </CustomFolderSettings>
+</ArrayOfCustomFolderSettings>
